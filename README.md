@@ -5,3 +5,6 @@
     
     TP1 
     >> ./TP1/TP1.ipynb
+    
+    TP2
+    >> ./TP1/TP2.ipynb
