@@ -1,4 +1,10 @@
-# INFO 232 Shuangrui CHEN
+# Basic of Sklearn in INFO 232
+
+Université Paris Saclay
+
+Professor: Isabelle Guyon
+
+All the homeworks of INFO 232 about Basic of Sklearn
 
     TP0 
     >> ./TP0/TP0.ipynb
